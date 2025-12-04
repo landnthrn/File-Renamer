@@ -1,3 +1,5 @@
+<img width="624" height="312" alt="FileRenamer PREVIEW 2" src="https://github.com/user-attachments/assets/1bc9db68-2646-411e-b4ab-61088714f978" />
+
 # File-Renamer
 **A Windows batch script and Command Prompt UI to rename a sequence of files at once**
 
